@@ -16,6 +16,6 @@ class Bt < Formula
   end
 
   test do
-    system "\#{bin}/bt", "--version"
+    system "#{bin}/bt", "--version"
   end
 end
