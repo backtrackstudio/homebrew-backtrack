@@ -1,13 +1,13 @@
 class Bt < Formula
   desc "Track and restore project snapshots"
   homepage "https://github.com/backtrackstudio/homebrew-backtrack"
-  version "0.0.5"
+  version "0.0.6"
   license "Proprietary"
 
   on_macos do
     on_arm do
-      url "https://github.com/backtrackstudio/homebrew-backtrack/releases/download/v0.0.5/bt-aarch64-apple-darwin.tar.gz"
-      sha256 "693810ab1efe8d0ad6c9e29af7f82d6fc502990274fbb064af3a238b8755283b"
+      url "https://github.com/backtrackstudio/homebrew-backtrack/releases/download/v0.0.6/bt-aarch64-apple-darwin.tar.gz"
+      sha256 "c0c3ad3b8d1a0e503b1ad4f86cc7e4edac674e9b8f8252825be58477bf3b2423"
     end
   end
 
