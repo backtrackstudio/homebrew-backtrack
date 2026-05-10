@@ -7,7 +7,7 @@ class Bt < Formula
   on_macos do
     on_arm do
       url "https://github.com/backtrackstudio/homebrew-backtrack/releases/download/v0.1.19/bt-aarch64-apple-darwin.tar.gz"
-      sha256 "f9e212141bf678afcd5382c9c10cc031046bebe59bfefc7b13bb9d55ba776e4f"
+      sha256 "e7bcd371771e4e62e83f95bae9f30f48997d004084eb4368d7179a9c17bb5f2b"
     end
   end
 
